@@ -69,7 +69,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>com.sejava.App</mainClass>
+                <mainClass>selab.com.sejava.App</mainClass>
               </manifest>
             </archive>
           </configuration>
